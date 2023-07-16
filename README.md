@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Proyecto Individual #2 Data Analyst
 
 En este proyecto, asumo el rol de analista de datos para una empresa prestadora de servicios de telecomunicaciones. Se me ha encargado realizar un análisis completo del comportamiento del sector a nivel nacional, con el objetivo de proporcionar información clave para la toma de decisiones de la empresa.
 
